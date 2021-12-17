@@ -9,6 +9,7 @@ BEGINNER_ARRAY = [
 ]
 
 rotationMultiplier = 1
+accelerationMultiplier = .1
 
 # gyro
 requestBody = {
@@ -62,9 +63,10 @@ while (1):
         dataFromPhonePi_accel = urllib.request.urlopen(PHONEPI_SERVER_ADDR_ACCEL).read().decode().split(',')
 
         x, y, z = float(dataFromPhonePi[-3]), float(dataFromPhonePi[-2]), float(dataFromPhonePi[-1])
-        x_accel, y_accel, z_accel = float(dataFromPhonePi[-3]), float(dataFromPhonePi[-2]), float(dataFromPhonePi[-1])
+        x_accel, y_accel, z_accel = float(dataFromPhonePi[-3]) * accelerationMultiplier, float(dataFromPhonePi[-2]) * accelerationMultiplier, float(dataFromPhonePi[-1]) * accelerationMultiplier
 
         rotationDelta = [x - lastFewPointsX[-1], y - lastFewPointsY[-1], z - lastFewPointsZ[-1]]
+        accelerationDelta = [x_accel - lastFewPointsX_accel[-1], y_accel - lastFewPointsY_accel[-1], z_accel - lastFewPointsZ_accel[-1]]
 
         for i in range(3):
 
@@ -91,9 +93,9 @@ while (1):
         x, y, z = avg(lastFewPointsX), avg(lastFewPointsY), avg(lastFewPointsZ) 
         x_accel, y_accel, z_accel = avg(lastFewPointsX_accel), avg(lastFewPointsY_accel), avg(lastFewPointsZ_accel) # average - dont know if this will be needed
 
-        cumulativeAcceleration[0] += x_accel
-        cumulativeAcceleration[1] += y_accel
-        cumulativeAcceleration[2] += z_accel
+        cumulativeAcceleration[0] += accelerationDelta[0]
+        cumulativeAcceleration[1] += accelerationDelta[1]
+        cumulativeAcceleration[2] += accelerationDelta[2]
 
         requestBody['parameters']['NewRotation']['Yaw'] = x * rotationMultiplier
         requestBody['parameters']['NewRotation']['Pitch'] = (-y) * rotationMultiplier
@@ -107,6 +109,7 @@ while (1):
 
         requests.put(UE5_REMOTE_CONTROL_SERVER_ADDR, json = requestBody_accel)
 
+        print(cumulativeAcceleration)
         print(cumulativeRotation)
 
     except KeyboardInterrupt:
