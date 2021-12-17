@@ -1,0 +1,4 @@
+1.] Run PhonePi_SampleServer/Flask/PhonePi.py (after installing the requirements.txt in the same dir)
+2.] Start the Sensor Stream client on your phone.
+3.] Start the UE5 project in LiveCompositingTest1/LiveCompositingTest1.uproject
+4.] Run PhonePiToUE5/main.py
