@@ -9,7 +9,7 @@ BEGINNER_ARRAY = [
 ]
 
 rotationMultiplier = 1
-accelerationMultiplier = .1
+accelerationMultiplier = 1
 
 # gyro
 requestBody = {
@@ -60,9 +60,9 @@ while (1):
     try:
 
         dataFromPhonePi = urllib.request.urlopen(PHONEPI_SERVER_ADDR_ORIENTATION).read().decode().split(',')
-        dataFromPhonePi_accel = urllib.request.urlopen(PHONEPI_SERVER_ADDR_ACCEL).read().decode().split(',')
+        dataFromPhonePi_accel = [0, 0, 0] #urllib.request.urlopen(PHONEPI_SERVER_ADDR_ACCEL).read().decode().split(',')
 
-        x, y, z = float(dataFromPhonePi[-3]), float(dataFromPhonePi[-2]), float(dataFromPhonePi[-1])
+        x, y, z = float(dataFromPhonePi[-3]), float(dataFromPhonePi[-2]), float(dataFromPhonePi[-1]) + 90
         x_accel, y_accel, z_accel = float(dataFromPhonePi[-3]) * accelerationMultiplier, float(dataFromPhonePi[-2]) * accelerationMultiplier, float(dataFromPhonePi[-1]) * accelerationMultiplier
 
         rotationDelta = [x - lastFewPointsX[-1], y - lastFewPointsY[-1], z - lastFewPointsZ[-1]]
@@ -98,16 +98,16 @@ while (1):
         cumulativeAcceleration[2] += accelerationDelta[2]
 
         requestBody['parameters']['NewRotation']['Yaw'] = x * rotationMultiplier
-        requestBody['parameters']['NewRotation']['Pitch'] = (-y) * rotationMultiplier
+        requestBody['parameters']['NewRotation']['Pitch'] = -z * rotationMultiplier
         requestBody['parameters']['NewRotation']['Roll'] = 0 #z * rotationMultiplier
 
         requests.put(UE5_REMOTE_CONTROL_SERVER_ADDR, json = requestBody)
 
-        requestBody_accel['parameters']['X'] = x_accel
-        requestBody_accel['parameters']['Y'] = y_accel
-        requestBody_accel['parameters']['Z'] = z_accel
+        requestBody_accel['parameters']['X'] = cumulativeAcceleration[0]
+        requestBody_accel['parameters']['Y'] = cumulativeAcceleration[1]
+        requestBody_accel['parameters']['Z'] = cumulativeAcceleration[2]
 
-        requests.put(UE5_REMOTE_CONTROL_SERVER_ADDR, json = requestBody_accel)
+        #requests.put(UE5_REMOTE_CONTROL_SERVER_ADDR, json = requestBody_accel)
 
         print(cumulativeAcceleration)
         print(cumulativeRotation)

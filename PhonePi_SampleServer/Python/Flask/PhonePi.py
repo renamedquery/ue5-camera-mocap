@@ -142,19 +142,21 @@ def orientation_read():
 def accel_read():
     return str(open('accelerometer.txt', 'r').read()).split('\n')[-2]
 
-def serve_forever(server):
-
-    server.start_accepting()
-    server._stop_event.wait()
+#def serve_forever(server):
+#
+#    server.start_accepting()
+#    server._stop_event.wait()
 
 if __name__ == "__main__":
     from gevent import pywsgi
     from geventwebsocket.handler import WebSocketHandler
-    import multiprocessing
-    from multiprocessing import Process
 
-    server = pywsgi.WSGIServer(('0.0.0.0', 5000), app, handler_class=WebSocketHandler, environ={'wsgi.multithread': True})
-    server.start()
+    #server = pywsgi.WSGIServer(('0.0.0.0', 5000), app, handler_class=WebSocketHandler, environ={'wsgi.multithread': True})
+    #server.start()
 
-    for process in range(multiprocessing.cpu_count()):
-        Process(target = serve_forever, args = (server,)).start()
+    server = pywsgi.WSGIServer(
+        ('0.0.0.0', 5000), app, handler_class=WebSocketHandler)
+    server.serve_forever()
+
+    #for process in range(multiprocessing.cpu_count()):
+    #    Process(target = serve_forever, args = (server,)).start()
