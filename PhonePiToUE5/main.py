@@ -1,8 +1,8 @@
-import urllib.request, requests
+import urllib.request, requests, time
 
 PHONEPI_SERVER_ADDR_ORIENTATION = 'http://127.0.0.1:5000/orientation_read'
 PHONEPI_SERVER_ADDR_ACCEL = 'http://127.0.0.1:5000/accelerometer_read'
-UE5_REMOTE_CONTROL_SERVER_ADDR = 'http://127.0.0.1:5001/remote/object/call'
+UE5_REMOTE_CONTROL_SERVER_ADDR = 'http://127.0.0.1:6001/remote/object/call'
 
 BEGINNER_ARRAY = [
     0,0,0,0,0,0
@@ -59,10 +59,12 @@ while (1):
 
     try:
 
+        print(time.time())
+
         dataFromPhonePi = urllib.request.urlopen(PHONEPI_SERVER_ADDR_ORIENTATION).read().decode().split(',')
         dataFromPhonePi_accel = [0, 0, 0] #urllib.request.urlopen(PHONEPI_SERVER_ADDR_ACCEL).read().decode().split(',')
 
-        x, y, z = float(dataFromPhonePi[-3]), float(dataFromPhonePi[-2]), float(dataFromPhonePi[-1]) + 90
+        x, y, z = float(dataFromPhonePi[-3]), float(dataFromPhonePi[-2]), float(dataFromPhonePi[-1])
         x_accel, y_accel, z_accel = float(dataFromPhonePi[-3]) * accelerationMultiplier, float(dataFromPhonePi[-2]) * accelerationMultiplier, float(dataFromPhonePi[-1]) * accelerationMultiplier
 
         rotationDelta = [x - lastFewPointsX[-1], y - lastFewPointsY[-1], z - lastFewPointsZ[-1]]
