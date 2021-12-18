@@ -97,7 +97,7 @@ while (1):
         cumulativeAcceleration[1] += accelerationDelta[1]
         cumulativeAcceleration[2] += accelerationDelta[2]
 
-        requestBody['parameters']['NewRotation']['Yaw'] = x * rotationMultiplier
+        requestBody['parameters']['NewRotation']['Yaw'] = -x * rotationMultiplier
         requestBody['parameters']['NewRotation']['Pitch'] = -z * rotationMultiplier
         requestBody['parameters']['NewRotation']['Roll'] = 0 #z * rotationMultiplier
 
