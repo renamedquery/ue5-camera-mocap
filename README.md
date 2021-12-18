@@ -4,6 +4,6 @@
 
 ### This is still a work in progress! More will come to the README as this project progresses.
 
-https://user-images.githubusercontent.com/38505228/146612581-538fcce4-426f-4c08-b9a0-027aaa320543.mp4
+https://user-images.githubusercontent.com/38505228/146624090-b910ba53-dfda-4bbf-bc7a-c15be5fe697c.mp4
 
 *This is the current progress of the setup. Yaw and pitch are completed (roll, and XYZ movement are still left to work on).*
