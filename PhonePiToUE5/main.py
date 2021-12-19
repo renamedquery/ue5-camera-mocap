@@ -5,7 +5,7 @@ PHONEPI_SERVER_ADDR_ACCEL = 'http://127.0.0.1:5000/accelerometer_read'
 UE5_REMOTE_CONTROL_SERVER_ADDR = 'http://127.0.0.1:6001/remote/object/call'
 
 BEGINNER_ARRAY = [
-    0,0,0,0,0,0
+    0,0,0,0,0,0,0,0,0,0,0,0
 ]
 
 rotationMultiplier = 1
@@ -13,7 +13,7 @@ accelerationMultiplier = 1
 
 # gyro
 requestBody = {
-    "objectPath" : "/Game/MainMap.MainMap:PersistentLevel.BP_CineCameraActor_C_1",
+    "objectPath" : "/Game/MainMap.MainMap:PersistentLevel.DefaultPawn_C_1",
     "functionName" : "SetActorRotation",
     "parameters" : {
         "NewRotation" : {
@@ -27,7 +27,7 @@ requestBody = {
 
 # accel
 requestBody_accel = {
-    "objectPath" : "/Game/MainMap.MainMap:PersistentLevel.BP_CineCameraActor_C_1",
+    "objectPath" : "/Game/MainMap.MainMap:PersistentLevel.DefaultPawn_C_1",
     "functionName" : "SetActorRelativeLocation",
     "parameters" : {
         "X" : 0,

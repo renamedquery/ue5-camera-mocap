@@ -34,6 +34,10 @@
 		{
 			"Name": "WebBrowserWidget",
 			"Enabled": true
+		},
+		{
+			"Name": "ChunkDownloader",
+			"Enabled": false
 		}
 	]
 }

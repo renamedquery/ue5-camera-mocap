@@ -1985,3 +1985,1306 @@ BP_CineCameraActor_C.ReceiveEndPlay
 [2021.12.18-21.41.44:232][849]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
 [2021.12.18-22.04.31:248][595]LogSlate: Window 'EditorWebSource' being destroyed
 [2021.12.18-22.04.31:256][595]LogSlate: Window 'EditorWebSource' being destroyed
+[2021.12.18-22.15.37:324][700]Cmd: SELECT NONE
+[2021.12.18-22.16.06:277][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.12.18-22.16.06:301][724]LogSavePackage: Moving '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Saved/MainMap80576A164F77D730F2B8CA99D019428E.tmp' to '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Content/MainMap.umap'
+[2021.12.18-22.16.06:307][724]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/MainMap_BuiltData
+[2021.12.18-22.16.06:307][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap_BuiltData" FILE="../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Content/MainMap_BuiltData.uasset" SILENT=true
+[2021.12.18-22.16.06:319][724]LogSavePackage: Moving '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Saved/MainMap_BuiltDataDFFF6926464AE14D3E844CA2782D02E7.tmp' to '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Content/MainMap_BuiltData.uasset'
+[2021.12.18-22.16.06:320][724]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/MainMap_BuiltData
+[2021.12.18-22.16.06:341][724]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.18-22.16.06:341][724]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MainMap_BuiltData.MainMap_BuiltData
+[2021.12.18-22.16.06:341][724]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
+[2021.12.18-23.57.29:783][979]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{60349594-54f8-4dce-9ad6-10a8439718d8}.
+[2021.12.18-23.57.29:783][979]LogAudioMixer: Resetting audio stream to device id 
+[2021.12.18-23.57.29:795][979]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.18-23.57.29:795][979]LogAudioMixer: Display: 1: FrontRight
+[2021.12.18-23.59.15:349][998]LogSlate: Window 'Reference Viewer' being destroyed
+[2021.12.18-23.59.15:355][998]LogSlate: Window 'Reference Viewer' being destroyed
+[2021.12.18-23.59.18:841][178]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2021.12.18-23.59.18:841][178]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2021.12.19-00.15.21:009][305]LogSlate: Window 'EditorWebSource' being destroyed
+[2021.12.19-00.15.21:016][305]LogSlate: Window 'EditorWebSource' being destroyed
+[2021.12.19-00.15.28:956][606]LogSlate: Window 'EditorWebSource' being destroyed
+[2021.12.19-00.15.28:963][606]LogSlate: Window 'EditorWebSource' being destroyed
+[2021.12.19-00.16.03:061][952]LogSavePackage: Moving '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Saved/EditorWebSource0376A7674775360E5B7394B15A153E6F.tmp' to '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Content/CameraSetup/CameraTexture/EditorWebSource.uasset'
+[2021.12.19-00.16.03:078][952]AssetCheck: New page: Asset Save: EditorWebSource
+[2021.12.19-00.16.03:078][952]LogContentValidation: Display: Validating EditorUtilityWidgetBlueprint /Game/CameraSetup/CameraTexture/EditorWebSource.EditorWebSource
+[2021.12.19-00.16.30:217][ 36]LogSavePackage: Moving '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Saved/EditorWebSource617ECE0042E0928BCB8B03834CC19E30.tmp' to '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Content/CameraSetup/CameraTexture/EditorWebSource.uasset'
+[2021.12.19-00.16.30:234][ 36]AssetCheck: New page: Asset Save: EditorWebSource
+[2021.12.19-00.16.30:234][ 36]LogContentValidation: Display: Validating EditorUtilityWidgetBlueprint /Game/CameraSetup/CameraTexture/EditorWebSource.EditorWebSource
+[2021.12.19-00.16.52:144][933]BlueprintLog: New page: Compile EditorWebSource
+[2021.12.19-00.16.52:195][933]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.12.19-00.17.31:150][463]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.12.19-00.18.12:201][919]LogSlate: Window 'Project Settings' being destroyed
+[2021.12.19-00.18.12:210][919]LogSlate: Window 'Project Settings' being destroyed
+[2021.12.19-00.18.22:728][272]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.12.19-00.18.22:734][272]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.12.19-00.18.55:252][549]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.12.19-00.18.55:264][549]LogSavePackage: Moving '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Saved/MainMap_Auto264F6628F4B32EF53892D6799610ED5C8.tmp' to '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Saved/Autosaves/Game/MainMap_Auto2.umap'
+[2021.12.19-00.18.55:265][549]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainMap' took 0.042
+[2021.12.19-00.18.55:265][549]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2021.12.19-00.18.58:776][687]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-JTCCBVF
+[2021.12.19-00.18.58:776][687]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/LiveCompositingTest1.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Intermediate/TurnkeyReport_1.log" -log="C:/Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Intermediate/TurnkeyLog_1.log" -project="C:/Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/LiveCompositingTest1.uproject"  -Device=Win64@DESKTOP-JTCCBVF'
+[2021.12.19-00.18.58:776][687]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0EA/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/LiveCompositingTest1.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Intermediate/TurnkeyReport_1.log" -log="C:/Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Intermediate/TurnkeyLog_1.log" -project="C:/Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/LiveCompositingTest1.uproject"  -Device=Win64@DESKTOP-JTCCBVF" -nocompile ]
+[2021.12.19-00.18.59:456][710]LogTurnkeySupport: Completed device detection: Code = 0
+[2021.12.19-00.18.59:459][710]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-JTCCBVF: (Name=DESKTOP-JTCCBVF, Status=Valid, Installed=10.0.18363.0, MinAllowed=10.0.0.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2021.12.19-00.19.04:646][927]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.12.19-00.19.04:646][927]LogPlayLevel: [PlayLevel] Compiling BP_CineCameraActor before play...
+[2021.12.19-00.19.04:766][927]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.12.19-00.19.04:768][927]LogPlayLevel: PlayLevel: Blueprint regeneration took 121 ms (1 blueprints)
+[2021.12.19-00.19.04:768][927]PIE: New page: PIE session: MainMap (Dec 18, 2021, 2:19:04 PM)
+[2021.12.19-00.19.04:768][927]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2021.12.19-00.19.04:771][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003259s)
+[2021.12.19-00.19.04:772][927]LogAIModule: Creating AISystem for world MainMap
+[2021.12.19-00.19.04:773][927]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2021.12.19-00.19.04:773][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.004584s)
+[2021.12.19-00.19.04:799][927]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.12.19-00.19.04:800][927]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.12.19-00.19.04:800][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.19-00.19.04:800][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.19-00.19.04:800][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.19-00.19.04:800][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.19-00.19.04:800][927]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.19-00.19.04:800][927]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.19-00.19.04:800][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.19-00.19.04:800][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.19-00.19.04:801][927]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.19-00.19.04:801][927]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.19-00.19.04:808][927]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.19-00.19.04:808][927]LogAudioMixer: Display: 1: FrontRight
+[2021.12.19-00.19.04:817][927]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Alpha S Game)
+[2021.12.19-00.19.04:817][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.19-00.19.04:817][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.19-00.19.04:817][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.19-00.19.04:818][927]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.19-00.19.04:818][927]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.19-00.19.04:820][927]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.19-00.19.04:820][927]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.19-00.19.04:820][927]LogInit: FAudioDevice initialized.
+[2021.12.19-00.19.04:820][927]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMap'.
+[2021.12.19-00.19.04:827][927]LogLoad: Game class is 'GameModeBase'
+[2021.12.19-00.19.04:827][927]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.12.18-19.19.04
+[2021.12.19-00.19.04:828][927]LogWorld: Bringing up level for play took: 0.000664
+[2021.12.19-00.19.04:828][927]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.12.19-00.19.04:939][927]PIE: Server logged in
+[2021.12.19-00.19.04:939][927]PIE: Play in editor total start time 0.294 seconds.
+[2021.12.19-00.19.12:443][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.19-00.19.12:443][126]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2021.12.19-00.19.12:443][126]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.19-00.19.12:444][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.19-00.19.12:452][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.19-00.19.12:492][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.19-00.19.12:521][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.19-00.19.12:521][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.19-00.19.12:522][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.19-00.19.12:534][126]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.12.19-00.19.12:564][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.12.19-00.19.12:634][127]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.12.19-00.19.19:442][363]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-JTCCBVF
+[2021.12.19-00.19.29:214][732]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-JTCCBVF
+[2021.12.19-00.19.59:444][776]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.12.19-00.19.59:450][776]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.12.19-00.20.00:655][809]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.12.19-00.20.01:837][809]LogSlate: Window 'Save Content' being destroyed
+[2021.12.19-00.20.01:936][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.12.19-00.20.01:945][809]LogSavePackage: Moving '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Saved/MainMapBA05FD5E49373B165BFEE7A8E215DEEF.tmp' to '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Content/MainMap.umap'
+[2021.12.19-00.20.01:952][809]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/MainMap_BuiltData
+[2021.12.19-00.20.01:952][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap_BuiltData" FILE="../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Content/MainMap_BuiltData.uasset" SILENT=true
+[2021.12.19-00.20.01:962][809]LogSavePackage: Moving '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Saved/MainMap_BuiltDataCAA6864F41808D5116B942885F158DE1.tmp' to '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Content/MainMap_BuiltData.uasset'
+[2021.12.19-00.20.01:964][809]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/MainMap_BuiltData
+[2021.12.19-00.20.01:964][809]LogFileHelpers: Saving map 'MainMap' took 0.057
+[2021.12.19-00.20.01:991][809]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.19-00.20.01:991][809]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MainMap_BuiltData.MainMap_BuiltData
+[2021.12.19-00.20.01:991][809]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
+[2021.12.19-00.20.06:958][985]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.19-00.20.06:965][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.19-00.20.06:965][985]PIE: New page: PIE session: MainMap (Dec 18, 2021, 2:20:06 PM)
+[2021.12.19-00.20.06:965][985]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2021.12.19-00.20.06:968][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002581s)
+[2021.12.19-00.20.06:968][985]LogAIModule: Creating AISystem for world MainMap
+[2021.12.19-00.20.06:969][985]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2021.12.19-00.20.06:969][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.003829s)
+[2021.12.19-00.20.06:995][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.12.19-00.20.06:996][985]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.12.19-00.20.06:996][985]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.19-00.20.06:996][985]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.19-00.20.06:996][985]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.19-00.20.06:996][985]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.19-00.20.06:996][985]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.19-00.20.06:996][985]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.19-00.20.06:996][985]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.19-00.20.06:996][985]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.19-00.20.06:997][985]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.19-00.20.06:997][985]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.19-00.20.07:005][985]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.19-00.20.07:005][985]LogAudioMixer: Display: 1: FrontRight
+[2021.12.19-00.20.07:013][985]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Alpha S Game)
+[2021.12.19-00.20.07:013][985]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.19-00.20.07:013][985]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.19-00.20.07:013][985]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.19-00.20.07:014][985]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.19-00.20.07:014][985]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.19-00.20.07:015][985]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.19-00.20.07:015][985]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.19-00.20.07:015][985]LogInit: FAudioDevice initialized.
+[2021.12.19-00.20.07:015][985]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMap'.
+[2021.12.19-00.20.07:025][985]LogLoad: Game class is 'GameModeBase'
+[2021.12.19-00.20.07:026][985]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.12.18-19.20.07
+[2021.12.19-00.20.07:026][985]LogWorld: Bringing up level for play took: 0.000613
+[2021.12.19-00.20.07:026][985]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.12.19-00.20.07:128][985]PIE: Server logged in
+[2021.12.19-00.20.07:129][985]PIE: Play in editor total start time 0.165 seconds.
+[2021.12.19-00.20.13:373][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.19-00.20.13:373][124]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2021.12.19-00.20.13:373][124]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.19-00.20.13:373][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.19-00.20.13:385][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.19-00.20.13:429][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.19-00.20.13:458][124]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.19-00.20.13:458][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.19-00.20.13:459][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.19-00.20.13:465][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.19-00.20.13:471][124]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.12.19-00.20.13:499][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.12.19-00.20.13:564][125]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.12.19-00.20.20:997][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.12.19-00.20.21:008][383]LogSavePackage: Moving '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Saved/MainMapE6DDC1314A226EBE5056198F15FE4732.tmp' to '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Content/MainMap.umap'
+[2021.12.19-00.20.21:015][383]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/MainMap_BuiltData
+[2021.12.19-00.20.21:015][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap_BuiltData" FILE="../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Content/MainMap_BuiltData.uasset" SILENT=true
+[2021.12.19-00.20.21:027][383]LogSavePackage: Moving '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Saved/MainMap_BuiltData401FE22D44667EC4D57D46A6B0E6B288.tmp' to '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Content/MainMap_BuiltData.uasset'
+[2021.12.19-00.20.21:028][383]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/MainMap_BuiltData
+[2021.12.19-00.20.21:048][383]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.19-00.20.21:048][383]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MainMap_BuiltData.MainMap_BuiltData
+[2021.12.19-00.20.21:048][383]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
+[2021.12.19-00.21.47:800][107]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2021.12.19-00.21.47:800][107]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2021.12.19-00.21.50:646][204]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2021.12.19-00.21.50:646][204]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2021.12.19-00.22.37:785][517]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/CameraSetup/CameraTexture/Camera_DL_MediaPlayer_Video_Mat.Camera_DL_MediaPlayer_Video_Mat
+[2021.12.19-00.22.37:789][517]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 3 classes and 0 folders.
+[2021.12.19-00.22.37:790][517]LogMaterial: Display: Missing cached shadermap for Preview:Camera_DL_MediaPlayer_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B895974BCC777C48BA52F8DED46BAD07A2057836), compiling. 
+[2021.12.19-00.22.37:862][517]LogTexture: Display: Waiting for textures to be ready 0/1 (EpicQuadPanorama_CC+EV1) ...
+[2021.12.19-00.22.37:956][517]LogMaterial: Display: Missing cached shadermap for Preview:Camera_DL_MediaPlayer_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C9FF1D681DFDD77F43039EA30C4263709F35E5AB), compiling. 
+[2021.12.19-00.22.37:960][517]LogMaterial: Display: Missing cached shadermap for Preview:Camera_DL_MediaPlayer_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3565CB3C9F74845CBDAE6DE08F91208DAEF63CD1), compiling. 
+[2021.12.19-00.22.37:962][517]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3FCD621E8DE5556299AE94E8C98DAE3467E2A4B0), compiling. 
+[2021.12.19-00.22.38:270][517]MaterialEditorStats: Texture samplers: 0/16
+[2021.12.19-00.22.38:270][517]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.19-00.22.38:270][517]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.19-00.22.38:270][517]MaterialEditorStats: 
+[2021.12.19-00.22.38:270][517]MaterialEditorStats: Shader Count: 0
+[2021.12.19-00.22.39:736][548]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.19-00.22.39:736][548]LogShaderCompilers: Display: Total job queries 80, among them cache hits 0 (0.00%)
+[2021.12.19-00.22.39:736][548]LogShaderCompilers: Display: Tracking 45 distinct input hashes that result in 36 distinct outputs (80.00%)
+[2021.12.19-00.22.39:736][548]LogShaderCompilers: Display: RAM used: 0.11 MB (0.00 GB) of 6553.60 MB (6.40 GB) budget. Usage: 0.00%
+[2021.12.19-00.22.39:736][548]LogShaderCompilers: Display: ================================================
+[2021.12.19-00.22.39:780][549]MaterialEditorStats: Texture samplers: 3/16
+[2021.12.19-00.22.39:780][549]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.19-00.22.39:780][549]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.19-00.22.39:780][549]MaterialEditorStats: 
+[2021.12.19-00.22.39:780][549]MaterialEditorStats: Shader Count: 1
+[2021.12.19-00.22.42:643][630]MaterialEditorStats: Base pass shader: 151 instructions
+[2021.12.19-00.22.42:643][630]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 225 instructions
+[2021.12.19-00.22.42:643][630]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2021.12.19-00.22.42:643][630]MaterialEditorStats: Texture samplers: 3/16
+[2021.12.19-00.22.42:643][630]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.19-00.22.42:643][630]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.19-00.22.42:643][630]MaterialEditorStats: 
+[2021.12.19-00.22.42:643][630]MaterialEditorStats: Shader Count: 17
+[2021.12.19-00.25.52:849][737]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.12.19-00.25.52:871][737]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.12.19-00.25.52:876][737]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.12.19-00.25.52:900][737]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.12.19-00.25.59:806][924]LogContentBrowser: Deferred new asset file creation: NewStreamMediaSource
+[2021.12.19-00.25.59:833][924]LogContentBrowser: Creating deferred item: NewStreamMediaSource
+[2021.12.19-00.26.05:778][139]LogContentBrowser: Attempting asset rename: NewStreamMediaSource -> CameraStreamSource
+[2021.12.19-00.26.05:780][139]LogContentBrowser: End creating deferred item NewStreamMediaSource
+[2021.12.19-00.26.06:424][160]LogAssetEditorSubsystem: Opening Asset editor for StreamMediaSource /Game/CameraSetup/CameraTexture/CameraStreamSource.CameraStreamSource
+[2021.12.19-00.26.20:254][745]LogSavePackage: Moving '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Saved/CameraStreamSource98376B64454282CE23D8479115079636.tmp' to '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Content/CameraSetup/CameraTexture/CameraStreamSource.uasset'
+[2021.12.19-00.26.20:276][745]AssetCheck: New page: Asset Save: CameraStreamSource
+[2021.12.19-00.26.20:276][745]LogContentValidation: Display: Validating StreamMediaSource /Game/CameraSetup/CameraTexture/CameraStreamSource.CameraStreamSource
+[2021.12.19-00.26.22:139][812]LogSavePackage: Moving '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Saved/CameraStreamSource48EE500F4A875851EA60C4A45F01B5BA.tmp' to '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Content/CameraSetup/CameraTexture/CameraStreamSource.uasset'
+[2021.12.19-00.26.22:162][812]AssetCheck: New page: Asset Save: CameraStreamSource
+[2021.12.19-00.26.22:162][812]LogContentValidation: Display: Validating StreamMediaSource /Game/CameraSetup/CameraTexture/CameraStreamSource.CameraStreamSource
+[2021.12.19-00.26.24:339][893]LogAssetEditorSubsystem: Opening Asset editor for MediaPlayer /Game/CameraSetup/CameraTexture/Camera_DL_MediaPlayer.Camera_DL_MediaPlayer
+[2021.12.19-00.26.24:349][893]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8448E26A47C5AA5428AC7544AD852BE6F48F1410), compiling. 
+[2021.12.19-00.26.24:404][893]LogContentBrowser: Verbose: The majority of assets in the view are of type: StreamMediaSource
+[2021.12.19-00.26.25:460][918]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.19-00.26.25:460][918]LogShaderCompilers: Display: Total job queries 107, among them cache hits 2 (1.87%)
+[2021.12.19-00.26.25:460][918]LogShaderCompilers: Display: Tracking 64 distinct input hashes that result in 47 distinct outputs (73.44%)
+[2021.12.19-00.26.25:460][918]LogShaderCompilers: Display: RAM used: 0.20 MB (0.00 GB) of 6553.60 MB (6.40 GB) budget. Usage: 0.00%
+[2021.12.19-00.26.25:460][918]LogShaderCompilers: Display: ================================================
+[2021.12.19-00.26.27:157][968]LogElectraPlayer: [000004DC086DA800] FElectraPlayer() created.
+[2021.12.19-00.26.27:157][968]LogElectraPlayer: [000004DC086DA800][000004DBDAD78C50] IMediaPlayer::Open(http://172.24.16.12:8081/video.mjpg?q=30&fps=33&id=0.6526035168122202&r=1639873537862)
+[2021.12.19-00.26.27:161][968]LogElectraPlayer: [000004DC086DA800][000004DBDAD78C50] Playback paused at play position 0.000
+[2021.12.19-00.26.27:161][968]LogElectraPlayer: Error: [000004DC086DA800][000004DBDAD78C50] ReportError: "error=0 in Player: code 2, "Could not determine stream MIME type""
+[2021.12.19-00.26.27:161][968]LogElectraPlayer: [000004DC086DA800][000004DBDAD78C50] IMediaPlayer::Close()
+[2021.12.19-00.26.27:162][968]LogElectraPlayer: [000004DC086DA800][000004DBDAD78C50] Playback stopped. Last play position 0.000
+[2021.12.19-00.26.27:162][968]LogElectraPlayer: [000004DC086DA800][000004DBDAD78C50] Electra player statistics:
+OS: Windows 10 (Release 1909)
+GPU Adapter: NVIDIA GeForce RTX 3080
+URL: 
+Time after master playlist loaded: -1.000s
+Time after stream playlists loaded: -1.000s
+Time for initial buffering: -1.000s
+Initial video stream bitrate: 0 bps
+Initial buffering bandwidth bps: 0.000
+Initial buffering latency: 0.000s
+Time for initial preroll: -1.000s
+Number of times moved forward: 0
+Number of times moved backward: 0
+Number of times looped: 0
+Number of times rebuffered: 0
+Total time spent rebuffering: 0.000s
+Longest rebuffering time: 0.000s
+First media timeline start: -1.000s
+First media timeline end: -1.000s
+Last media timeline start: -1.000s
+Last media timeline end: -1.000s
+Media duration: 0.000s
+Play position at start: -1.000s
+Play position at end: -1.000s
+Number of quality upswitches: 0
+Number of quality downswitches: 0
+Number of drastic downswitches: 0
+Bytes of video data streamed: 0
+Bytes of audio data streamed: 0
+Number of segments fetched across all quality levels:
+Currently active playlist URL: 
+Currently active resolution: 0 * 0
+Current state: Paused
+Number of video frames dropped: 0, worst time delta 0.000 ms
+Number of audio frames dropped: 0, worst time delta 0.000 ms
+Last error: error=0 in Player: code 2, "Could not determine stream MIME type"
+Subtitles URL: 
+Subtitles response time: 0.000s
+Subtitles last error: 
+
+[2021.12.19-00.26.27:186][969]LogElectraPlayer: [000004DBDAD78C50] DoCloseAsync() finished after 17.506 msec!
+[2021.12.19-00.26.35:168][266]LogElectraPlayer: [000004DC086DA800] ~FElectraPlayer() finished.
+[2021.12.19-00.26.35:455][276]LogWmfMedia: Error: Failed to resolve URL http://172.24.16.12:8081/video.mjpg?q=30&fps=33&id=0.6526035168122202&r=1639873537862: The byte stream type of the given URL is unsupported.
+[2021.12.19-00.26.39:880][430]LogWebMMedia: Error: Not supported URL: http://172.24.16.12:8081/video.mjpg?q=30&fps=33&id=0.6526035168122202&r=1639873537862
+[2021.12.19-00.26.42:135][518]LogWebMMedia: Error: Not supported URL: http://172.24.16.12:8081/video.mjpg?q=30&fps=33&id=0.6526035168122202&r=1639873537862
+[2021.12.19-00.26.50:397][794]LogSavePackage: Moving '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Saved/Camera_DL_MediaPlayer0260C8994666FD3965C009873B75C044.tmp' to '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Content/CameraSetup/CameraTexture/Camera_DL_MediaPlayer.uasset'
+[2021.12.19-00.26.50:416][794]AssetCheck: New page: Asset Save: Camera_DL_MediaPlayer
+[2021.12.19-00.26.50:416][794]LogContentValidation: Display: Validating MediaPlayer /Game/CameraSetup/CameraTexture/Camera_DL_MediaPlayer.Camera_DL_MediaPlayer
+[2021.12.19-00.28.05:375][440]LogWmfMedia: Error: Failed to resolve URL http://172.24.16.12:8081/video.mjpg?q=30&fps=33&id=0.6526035168122202&r=1639873537862: The byte stream type of the given URL is unsupported.
+[2021.12.19-00.28.08:361][546]LogSavePackage: Moving '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Saved/Camera_DL_MediaPlayer33AF4CC24133C402B7EB5BBF909029BC.tmp' to '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Content/CameraSetup/CameraTexture/Camera_DL_MediaPlayer.uasset'
+[2021.12.19-00.28.08:386][546]AssetCheck: New page: Asset Save: Camera_DL_MediaPlayer
+[2021.12.19-00.28.08:386][546]LogContentValidation: Display: Validating MediaPlayer /Game/CameraSetup/CameraTexture/Camera_DL_MediaPlayer.Camera_DL_MediaPlayer
+[2021.12.19-00.28.09:745][597]LogSavePackage: Moving '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Saved/Camera_DL_MediaPlayerF0152127417422DF8B8CB090D4945B6F.tmp' to '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Content/CameraSetup/CameraTexture/Camera_DL_MediaPlayer.uasset'
+[2021.12.19-00.28.09:768][597]AssetCheck: New page: Asset Save: Camera_DL_MediaPlayer
+[2021.12.19-00.28.09:768][597]LogContentValidation: Display: Validating MediaPlayer /Game/CameraSetup/CameraTexture/Camera_DL_MediaPlayer.Camera_DL_MediaPlayer
+[2021.12.19-00.28.52:665][140]LogSavePackage: Moving '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Saved/CameraStreamSourceB37C936B4D0BB622CEE305992F0975D4.tmp' to '../../../../../../Users/harri/Desktop/LiveCompositingTest1_project/LiveCompositingTest1/Content/CameraSetup/CameraTexture/CameraStreamSource.uasset'
+[2021.12.19-00.28.52:684][140]AssetCheck: New page: Asset Save: CameraStreamSource
+[2021.12.19-00.28.52:684][140]LogContentValidation: Display: Validating StreamMediaSource /Game/CameraSetup/CameraTexture/CameraStreamSource.CameraStreamSource
+[2021.12.19-00.28.58:625][358]LogSlate: Window 'Camera_DL_MediaPlayer' being destroyed
+[2021.12.19-00.28.58:632][358]LogSlate: Window 'Camera_DL_MediaPlayer' being destroyed
+[2021.12.19-00.28.58:636][358]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.19-00.28.58:636][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.19-00.28.58:654][358]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.19-00.28.58:655][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.19-00.28.58:706][358]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.12.19-00.28.58:706][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.19-00.28.58:720][358]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.12.19-00.28.58:720][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.19-00.28.58:775][358]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.12.19-00.28.58:775][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.19-00.29.01:325][468]LogSlate: Window 'EditorWebSource' being destroyed
+[2021.12.19-00.29.01:333][468]LogSlate: Window 'EditorWebSource' being destroyed
+[2021.12.19-00.29.53:801][520]LogSlate: Window 'Disable Dependencies' being destroyed
+[2021.12.19-00.29.53:810][520]Message dialog closed, result: Cancel, title: Disable Dependencies, text: This plugin is required by ARUtilities. Would you like to disable it as well?
+[2021.12.19-00.30.00:249][520]LogSlate: Window 'Disable Dependencies' being destroyed
+[2021.12.19-00.30.00:255][520]Message dialog closed, result: No, title: Disable Dependencies, text: This plugin is required by GoogleARCore. Would you like to disable it as well?
+[2021.12.19-00.30.01:426][582]Cmd: CLOSE_SLATE_MAINFRAME
+[2021.12.19-00.30.01:517][582]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2021.12.19-00.30.01:529][582]LogStall: Shutdown...
+[2021.12.19-00.30.01:532][582]LogStall: Shutdown complete.
+[2021.12.19-00.30.02:149][582]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.12.19-00.30.02:149][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.19-00.30.02:200][582]LogSlate: Window 'Plugins' being destroyed
+[2021.12.19-00.30.02:203][582]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.12.19-00.30.02:204][582]LogSlate: Window 'Take Recorder' being destroyed
+[2021.12.19-00.30.02:216][582]LogSlate: Window 'LiveCompositingTest1 - Unreal Editor' being destroyed
+[2021.12.19-00.30.02:218][582]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.19-00.30.02:570][583]Cmd: QUIT_EDITOR
+[2021.12.19-00.30.02:570][583]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.12.19-00.30.02:578][583]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.12.19-00.30.02:578][583]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2021.12.19-00.30.02:578][583]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2021.12.19-00.30.02:844][583]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.12.19-00.30.02:844][583]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.12.19-00.30.02:844][583]LogAudio: Display: Audio Device unregistered from world 'MainMap'.
+[2021.12.19-00.30.02:844][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.19-00.30.02:844][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.19-00.30.02:848][583]LogAudio: Display: Audio Device Manager Shutdown
+[2021.12.19-00.30.02:851][583]LogExit: Preparing to exit.
+[2021.12.19-00.30.03:939][583]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.12.19-00.30.03:948][583]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.12.19-00.30.04:040][583]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.12.19-00.30.04:056][583]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.12.19-00.30.04:056][583]LogExit: Editor shut down
+[2021.12.19-00.30.04:057][583]LogExit: Transaction tracking system shut down
+[2021.12.19-00.30.04:344][583]LogExit: Object subsystem successfully closed.
+[2021.12.19-00.30.04:349][583]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.19-00.30.04:349][583]LogShaderCompilers: Display: Total job queries 107, among them cache hits 2 (1.87%)
+[2021.12.19-00.30.04:349][583]LogShaderCompilers: Display: Tracking 88 distinct input hashes that result in 50 distinct outputs (56.82%)
+[2021.12.19-00.30.04:349][583]LogShaderCompilers: Display: RAM used: 0.23 MB (0.00 GB) of 6553.60 MB (6.40 GB) budget. Usage: 0.00%
+[2021.12.19-00.30.04:349][583]LogShaderCompilers: Display: ================================================
+[2021.12.19-00.30.04:358][583]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.12.19-00.30.04:395][583]LogModuleManager: Shutting down and abandoning module MaterialEditor (909)
+[2021.12.19-00.30.04:395][583]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (907)
+[2021.12.19-00.30.04:395][583]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (905)
+[2021.12.19-00.30.04:395][583]LogModuleManager: Shutting down and abandoning module Voice (903)
+[2021.12.19-00.30.04:395][583]LogModuleManager: Shutting down and abandoning module BlueprintGraph (901)
+[2021.12.19-00.30.04:395][583]LogModuleManager: Shutting down and abandoning module SequencerWidgets (899)
+[2021.12.19-00.30.04:395][583]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (897)
+[2021.12.19-00.30.04:395][583]LogModuleManager: Shutting down and abandoning module SceneOutliner (895)
+[2021.12.19-00.30.04:395][583]LogModuleManager: Shutting down and abandoning module AddContentDialog (893)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module WidgetCarousel (892)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module EditorWidgets (889)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module StatusBar (887)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module StatsViewer (885)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (883)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (881)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module AutomationWorker (879)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module SteamVREditor (877)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module OculusMR (875)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module GooglePADEditor (873)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module PlanarCut (871)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (869)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (867)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module TakeRecorder (866)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (863)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module TakesCore (861)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (859)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (857)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (855)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (853)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module WebMMedia (851)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module PixelStreamingPlayerFactory (849)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module PixelStreaming (847)
+[2021.12.19-00.30.04:396][583]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (845)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (843)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module SequenceRecorder (842)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (839)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (837)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (835)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module ElectraPlayerFactory (833)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module ElectraSamples (831)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module ElectraBase (829)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (827)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (825)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (823)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (821)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (819)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (817)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (815)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (813)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (811)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (809)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (807)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module CharacterAI (805)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module TextureAlignMode (803)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module BspMode (801)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module GeometryMode (799)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (797)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module SmartSnapping (795)
+[2021.12.19-00.30.04:397][583]LogModuleManager: Shutting down and abandoning module SessionServices (793)
+[2021.12.19-00.30.04:398][583]LogModuleManager: Shutting down and abandoning module MeshPaint (791)
+[2021.12.19-00.30.04:398][583]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (789)
+[2021.12.19-00.30.04:398][583]LogModuleManager: Shutting down and abandoning module PlacementMode (788)
+[2021.12.19-00.30.04:398][583]LogModuleManager: Shutting down and abandoning module FoliageEdit (785)
+[2021.12.19-00.30.04:398][583]LogModuleManager: Shutting down and abandoning module LandscapeEditor (783)
+[2021.12.19-00.30.04:398][583]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (781)
+[2021.12.19-00.30.04:398][583]LogModuleManager: Shutting down and abandoning module ActorPickerMode (779)
+[2021.12.19-00.30.04:398][583]LogModuleManager: Shutting down and abandoning module ViewportSnapping (777)
+[2021.12.19-00.30.04:398][583]LogModuleManager: Shutting down and abandoning module ViewportInteraction (775)
+[2021.12.19-00.30.04:398][583]LogModuleManager: Shutting down and abandoning module ClothPainter (773)
+[2021.12.19-00.30.04:398][583]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (772)
+[2021.12.19-00.30.04:398][583]LogModuleManager: Shutting down and abandoning module LogVisualizer (769)
+[2021.12.19-00.30.04:398][583]LogModuleManager: Shutting down and abandoning module IntroTutorials (767)
+[2021.12.19-00.30.04:398][583]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (766)
+[2021.12.19-00.30.04:398][583]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (763)
+[2021.12.19-00.30.04:398][583]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (761)
+[2021.12.19-00.30.04:398][583]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (759)
+[2021.12.19-00.30.04:398][583]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (758)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (755)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (753)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (751)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (749)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module EditorConfig (747)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (745)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module EditorFramework (743)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (741)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module TraceInsights (739)
+[2021.12.19-00.30.05:997][583]MemoryProfiler: Shutdown
+[2021.12.19-00.30.05:997][583]NetworkingProfiler: Shutdown
+[2021.12.19-00.30.05:997][583]LoadingProfiler: Shutdown
+[2021.12.19-00.30.05:997][583]TimingProfiler: Shutdown
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module TraceServices (738)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (735)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (734)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module InputBindingEditor (730)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module MergeActors (728)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (726)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module LocalizationService (725)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module HardwareTargeting (722)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (720)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module UndoHistory (718)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module XmlParser (716)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module Blutility (714)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (712)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (711)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (708)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (707)
+[2021.12.19-00.30.05:997][583]LogModuleManager: Shutting down and abandoning module SettingsEditor (704)
+[2021.12.19-00.30.05:998][583]LogModuleManager: Shutting down and abandoning module ProjectLauncher (702)
+[2021.12.19-00.30.05:998][583]LogModuleManager: Shutting down and abandoning module SessionFrontend (700)
+[2021.12.19-00.30.05:998][583]LogModuleManager: Shutting down and abandoning module ProfilerClient (698)
+[2021.12.19-00.30.05:998][583]LogModuleManager: Shutting down and abandoning module DeviceManager (696)
+[2021.12.19-00.30.05:998][583]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (695)
+[2021.12.19-00.30.06:009][583]LogModuleManager: Shutting down and abandoning module AutomationController (692)
+[2021.12.19-00.30.06:009][583]LogModuleManager: Shutting down and abandoning module AutomationWindow (690)
+[2021.12.19-00.30.06:009][583]LogModuleManager: Shutting down and abandoning module Layers (688)
+[2021.12.19-00.30.06:009][583]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (686)
+[2021.12.19-00.30.06:009][583]LogModuleManager: Shutting down and abandoning module DetailCustomizations (684)
+[2021.12.19-00.30.06:009][583]LogModuleManager: Shutting down and abandoning module PackagesDialog (682)
+[2021.12.19-00.30.06:009][583]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (680)
+[2021.12.19-00.30.06:009][583]LogModuleManager: Shutting down and abandoning module Persona (678)
+[2021.12.19-00.30.06:009][583]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (677)
+[2021.12.19-00.30.06:009][583]LogModuleManager: Shutting down and abandoning module AnimGraph (675)
+[2021.12.19-00.30.06:009][583]LogModuleManager: Shutting down and abandoning module Kismet (672)
+[2021.12.19-00.30.06:025][583]LogModuleManager: Shutting down and abandoning module KismetWidgets (671)
+[2021.12.19-00.30.06:026][583]LogModuleManager: Shutting down and abandoning module GraphEditor (668)
+[2021.12.19-00.30.06:026][583]LogModuleManager: Shutting down and abandoning module StructViewer (666)
+[2021.12.19-00.30.06:026][583]LogModuleManager: Shutting down and abandoning module ClassViewer (664)
+[2021.12.19-00.30.06:027][583]LogModuleManager: Shutting down and abandoning module SourceControlWindows (662)
+[2021.12.19-00.30.06:027][583]LogModuleManager: Shutting down and abandoning module OutputLog (660)
+[2021.12.19-00.30.06:028][583]LogModuleManager: Shutting down and abandoning module Documentation (658)
+[2021.12.19-00.30.06:028][583]LogModuleManager: Shutting down and abandoning module LiveCoding (656)
+[2021.12.19-00.30.06:028][583]LogModuleManager: Shutting down and abandoning module LevelSequence (654)
+[2021.12.19-00.30.06:028][583]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (652)
+[2021.12.19-00.30.06:028][583]LogModuleManager: Shutting down and abandoning module MovieScene (650)
+[2021.12.19-00.30.06:028][583]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (648)
+[2021.12.19-00.30.06:028][583]LogModuleManager: Shutting down and abandoning module LauncherPlatform (646)
+[2021.12.19-00.30.06:028][583]LogModuleManager: Shutting down and abandoning module AnalyticsET (644)
+[2021.12.19-00.30.06:028][583]LogModuleManager: Shutting down and abandoning module PortalServices (642)
+[2021.12.19-00.30.06:028][583]LogModuleManager: Shutting down and abandoning module PortalRpc (640)
+[2021.12.19-00.30.06:028][583]LogModuleManager: Shutting down and abandoning module MessagingRpc (638)
+[2021.12.19-00.30.06:028][583]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (636)
+[2021.12.19-00.30.06:028][583]LogModuleManager: Shutting down and abandoning module AudioMixerCore (635)
+[2021.12.19-00.30.06:028][583]LogModuleManager: Shutting down and abandoning module AIModule (632)
+[2021.12.19-00.30.06:028][583]LogModuleManager: Shutting down and abandoning module GameplayDebugger (631)
+[2021.12.19-00.30.06:028][583]LogModuleManager: Shutting down and abandoning module AITestSuite (629)
+[2021.12.19-00.30.06:028][583]LogModuleManager: Shutting down and abandoning module NavigationSystem (627)
+[2021.12.19-00.30.06:028][583]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (624)
+[2021.12.19-00.30.06:028][583]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (622)
+[2021.12.19-00.30.06:028][583]LogModuleManager: Shutting down and abandoning module TypedElementFramework (620)
+[2021.12.19-00.30.06:028][583]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (618)
+[2021.12.19-00.30.06:034][583]LogModuleManager: Shutting down and abandoning module ProfilerService (616)
+[2021.12.19-00.30.06:200][583]LogModuleManager: Shutting down and abandoning module TaskGraph (614)
+[2021.12.19-00.30.06:200][583]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (612)
+[2021.12.19-00.30.06:200][583]LogModuleManager: Shutting down and abandoning module MegascansPlugin (610)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module Bridge (608)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module GoogleARCoreBase (606)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module OculusEditor (604)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module OculusInput (602)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module ARUtilities (600)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (598)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (596)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module CollectionManager (595)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module SynthesisEditor (592)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module Synthesis (590)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module WebSocketNetworking (588)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (586)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (584)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (582)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (580)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (578)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module InterchangePipelines (576)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module InterchangeExport (574)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module InterchangeImport (572)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module InterchangeNodes (570)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module HairStrandsEditor (568)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module GooglePAD (566)
+[2021.12.19-00.30.06:480][583]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (564)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module CableComponent (562)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (560)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module MotoSynth (558)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module ScreenshotTools (556)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (554)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module MeshModelingTools (552)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (550)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module ModelingOperators (548)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module ModelingComponents (546)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module MeshConversion (544)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module DynamicMesh (542)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (540)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module GeometricObjects (538)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (536)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (535)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (532)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module AudioCapture (530)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (529)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module AssetTags (526)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (524)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (522)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (520)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (518)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (516)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module AppleImageUtils (514)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module AndroidPermission (512)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (510)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (508)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module TakeSequencer (506)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module TakeMovieScene (504)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module RemoteControlUI (502)
+[2021.12.19-00.30.06:481][583]LogModuleManager: Shutting down and abandoning module WebRemoteControl (500)
+[2021.12.19-00.30.06:481][583]LogHttpServerModule: Stopping all listeners...
+[2021.12.19-00.30.06:481][583]LogHttpListener: HttListener stopping listening on Port 6001
+[2021.12.19-00.30.06:483][583]LogHttpServerModule: All listeners stopped
+[2021.12.19-00.30.06:483][583]LogModuleManager: Shutting down and abandoning module HTTPServer (499)
+[2021.12.19-00.30.06:483][583]LogHttpServerModule: Stopping all listeners...
+[2021.12.19-00.30.06:483][583]LogHttpServerModule: All listeners stopped
+[2021.12.19-00.30.06:484][583]LogModuleManager: Shutting down and abandoning module RemoteControl (496)
+[2021.12.19-00.30.06:484][583]LogModuleManager: Shutting down and abandoning module MediaCompositing (494)
+[2021.12.19-00.30.06:484][583]LogModuleManager: Shutting down and abandoning module ImgMedia (492)
+[2021.12.19-00.30.06:493][583]LogModuleManager: Shutting down and abandoning module TemplateSequence (490)
+[2021.12.19-00.30.06:493][583]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (488)
+[2021.12.19-00.30.06:493][583]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (486)
+[2021.12.19-00.30.06:493][583]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (484)
+[2021.12.19-00.30.06:493][583]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (482)
+[2021.12.19-00.30.06:493][583]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (480)
+[2021.12.19-00.30.06:493][583]LogModuleManager: Shutting down and abandoning module FractureEditor (478)
+[2021.12.19-00.30.06:493][583]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (476)
+[2021.12.19-00.30.06:493][583]LogModuleManager: Shutting down and abandoning module ChaosNiagara (474)
+[2021.12.19-00.30.06:493][583]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (472)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module BackChannel (470)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (468)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module AutomationUtils (466)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (464)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (462)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module PluginBrowser (460)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (458)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module AlembicImporter (456)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module AlembicLibrary (455)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module GeometryCache (454)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (453)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (448)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module CryptoKeys (446)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (444)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module InterchangeEditor (442)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (440)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module EditorDebugTools (438)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module CurveEditorTools (436)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (434)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (432)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module PluginUtils (430)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (428)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (426)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (424)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (422)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module UObjectPlugin (420)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (418)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (416)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module GitSourceControl (414)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (412)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (410)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module GameplayCameras (408)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (406)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (404)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (402)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (400)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (398)
+[2021.12.19-00.30.06:494][583]LogModuleManager: Shutting down and abandoning module LiveLink (396)
+[2021.12.19-00.30.06:996][583]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (394)
+[2021.12.19-00.30.06:996][583]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (392)
+[2021.12.19-00.30.06:996][583]LogModuleManager: Shutting down and abandoning module Paper2DEditor (390)
+[2021.12.19-00.30.06:996][583]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (388)
+[2021.12.19-00.30.06:996][583]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (386)
+[2021.12.19-00.30.06:996][583]LogModuleManager: Shutting down and abandoning module SoundFields (384)
+[2021.12.19-00.30.06:996][583]LogModuleManager: Shutting down and abandoning module WebBrowserWidget (382)
+[2021.12.19-00.30.06:996][583]LogModuleManager: Shutting down and abandoning module WebBrowser (381)
+[2021.12.19-00.30.07:303][583]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (378)
+[2021.12.19-00.30.07:303][583]LogModuleManager: Shutting down and abandoning module SignificanceManager (376)
+[2021.12.19-00.30.07:303][583]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (374)
+[2021.12.19-00.30.07:303][583]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (372)
+[2021.12.19-00.30.07:303][583]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (370)
+[2021.12.19-00.30.07:303][583]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (369)
+[2021.12.19-00.30.07:303][583]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (366)
+[2021.12.19-00.30.07:303][583]LogModuleManager: Shutting down and abandoning module UdpMessaging (364)
+[2021.12.19-00.30.07:404][583]LogModuleManager: Shutting down and abandoning module ActorSequence (362)
+[2021.12.19-00.30.07:404][583]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (360)
+[2021.12.19-00.30.07:404][583]LogModuleManager: Shutting down and abandoning module TcpMessaging (358)
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (356)
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (354)
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (352)
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (350)
+[2021.12.19-00.30.07:505][583]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (348)
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (346)
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (344)
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (342)
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module MagicLeapController (340)
+[2021.12.19-00.30.07:505][583]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (338)
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module MagicLeapAR (336)
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module AugmentedReality (335)
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (332)
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (330)
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module FacialAnimation (328)
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (326)
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module Niagara (324)
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module SignalProcessing (323)
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module NiagaraEditor (321)
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module NiagaraCore (318)
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module DataValidation (316)
+[2021.12.19-00.30.07:505][583]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (314)
+[2021.12.19-00.30.07:506][583]LogModuleManager: Shutting down and abandoning module LevelEditor (313)
+[2021.12.19-00.30.07:507][583]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (312)
+[2021.12.19-00.30.07:507][583]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (310)
+[2021.12.19-00.30.07:507][583]LogModuleManager: Shutting down and abandoning module AssetPlacementEdMode (309)
+[2021.12.19-00.30.07:507][583]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (306)
+[2021.12.19-00.30.07:508][583]LogModuleManager: Shutting down and abandoning module MainFrame (304)
+[2021.12.19-00.30.07:508][583]LogModuleManager: Shutting down and abandoning module HotReload (303)
+[2021.12.19-00.30.07:508][583]LogModuleManager: Shutting down and abandoning module ContentBrowser (299)
+[2021.12.19-00.30.07:508][583]LogModuleManager: Shutting down and abandoning module ToolMenus (298)
+[2021.12.19-00.30.07:508][583]LogModuleManager: Shutting down and abandoning module ContentBrowserData (296)
+[2021.12.19-00.30.07:508][583]LogModuleManager: Shutting down and abandoning module TreeMap (293)
+[2021.12.19-00.30.07:508][583]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (290)
+[2021.12.19-00.30.07:508][583]LogModuleManager: Shutting down and abandoning module AnimationSharing (288)
+[2021.12.19-00.30.07:508][583]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (286)
+[2021.12.19-00.30.07:508][583]LogModuleManager: Shutting down and abandoning module Paper2D (284)
+[2021.12.19-00.30.07:508][583]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (282)
+[2021.12.19-00.30.07:509][583]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (280)
+[2021.12.19-00.30.07:509][583]LogModuleManager: Shutting down and abandoning module ElectraPlayerPlugin (278)
+[2021.12.19-00.30.07:509][583]LogModuleManager: Shutting down and abandoning module ElectraPlayerRuntime (276)
+[2021.12.19-00.30.07:526][583]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (274)
+[2021.12.19-00.30.07:526][583]LogModuleManager: Shutting down and abandoning module PacketHandler (272)
+[2021.12.19-00.30.07:526][583]LogModuleManager: Shutting down and abandoning module AnimationDataController (270)
+[2021.12.19-00.30.07:526][583]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (268)
+[2021.12.19-00.30.07:526][583]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (266)
+[2021.12.19-00.30.07:526][583]LogModuleManager: Shutting down and abandoning module MediaAssets (264)
+[2021.12.19-00.30.07:526][583]LogModuleManager: Shutting down and abandoning module Overlay (262)
+[2021.12.19-00.30.07:526][583]LogModuleManager: Shutting down and abandoning module OverlayEditor (261)
+[2021.12.19-00.30.07:526][583]LogModuleManager: Shutting down and abandoning module VREditor (258)
+[2021.12.19-00.30.07:526][583]LogModuleManager: Shutting down and abandoning module StringTableEditor (256)
+[2021.12.19-00.30.07:526][583]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (254)
+[2021.12.19-00.30.07:526][583]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (252)
+[2021.12.19-00.30.07:527][583]LogModuleManager: Shutting down and abandoning module FunctionalTesting (250)
+[2021.12.19-00.30.07:527][583]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (248)
+[2021.12.19-00.30.07:527][583]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (247)
+[2021.12.19-00.30.07:527][583]LogModuleManager: Shutting down and abandoning module UMG (244)
+[2021.12.19-00.30.07:527][583]LogModuleManager: Shutting down and abandoning module UMGEditor (243)
+[2021.12.19-00.30.07:527][583]LogModuleManager: Shutting down and abandoning module SlateReflector (238)
+[2021.12.19-00.30.07:527][583]LogModuleManager: Shutting down and abandoning module Slate (236)
+[2021.12.19-00.30.07:527][583]LogModuleManager: Shutting down and abandoning module SlateCore (234)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (232)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module UnrealEd (230)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module MRMesh (228)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module Messaging (226)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module Core (216)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module SourceControl (214)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module MessageLog (213)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module MovieSceneTools (210)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module CurveEditor (209)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module Sequencer (207)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module EditorStyle (206)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module KismetCompiler (202)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module MeshBuilder (200)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module NaniteBuilder (198)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module MeshUtilities (196)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (195)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (194)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (193)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (191)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (189)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (187)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module MaterialBaking (183)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (178)
+[2021.12.19-00.30.07:528][583]LogModuleManager: Shutting down and abandoning module DerivedDataCache (176)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module TargetPlatform (174)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (173)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (171)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (169)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (167)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (165)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (163)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (161)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (159)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (157)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (155)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module ImageWrapper (154)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (151)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (149)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (147)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (145)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (143)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (141)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (139)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module LinuxAArch64TargetPlatform (137)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (135)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (133)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (131)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module TurnkeySupport (129)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module D3D12RHI (126)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module InputCore (124)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module Settings (122)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (120)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (118)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (117)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module Chaos (114)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (112)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (111)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module AVEncoder (110)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module GoogleARCoreRendering (106)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2021.12.19-00.30.07:529][583]LogHMD: Freeing OpenVRDLLHandle.
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module HairStrandsCore (96)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (94)
+[2021.12.19-00.30.07:529][583]LogModuleManager: Shutting down and abandoning module ChunkDownloader (92)
+[2021.12.19-00.30.07:530][583]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (90)
+[2021.12.19-00.30.07:530][583]LogModuleManager: Shutting down and abandoning module WmfMedia (88)
+[2021.12.19-00.30.07:532][583]LogModuleManager: Shutting down and abandoning module Media (87)
+[2021.12.19-00.30.07:533][583]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (84)
+[2021.12.19-00.30.07:533][583]LogModuleManager: Shutting down and abandoning module MLSDK (82)
+[2021.12.19-00.30.07:533][583]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2021.12.19-00.30.07:533][583]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2021.12.19-00.30.07:534][583]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2021.12.19-00.30.07:534][583]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2021.12.19-00.30.07:570][583]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2021.12.19-00.30.07:570][583]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.12.19-00.30.07:570][583]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2C792843-4B07-AD8D-3C7A-A3B19BA918E0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.0-16682836%2B%2B%2BUE5%2BRelease-5.0-EarlyAccess&UserID=d3e4c52f4d130dadd9003aaf417c4d4e%7Cd43dd06fadf44253a8726bdc2e59521a%7C486b1fc1-b7d4-4d9f-86f8-e0fc20e064cc&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.12.19-00.30.07:570][583]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.12.19-00.30.07:575][583]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2021.12.19-00.30.07:576][583]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2021.12.19-00.30.07:576][583]LogModuleManager: Shutting down and abandoning module ChaosCloth (60)
+[2021.12.19-00.30.07:576][583]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2021.12.19-00.30.07:576][583]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2021.12.19-00.30.07:576][583]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2021.12.19-00.30.07:576][583]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2021.12.19-00.30.07:576][583]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.12.19-00.30.07:576][583]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.12.19-00.30.07:576][583]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.12.19-00.30.07:576][583]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.12.19-00.30.07:576][583]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.12.19-00.30.07:576][583]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.12.19-00.30.07:576][583]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.12.19-00.30.07:576][583]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.12.19-00.30.07:576][583]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.12.19-00.30.07:576][583]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.12.19-00.30.07:576][583]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.12.19-00.30.07:576][583]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.12.19-00.30.07:577][583]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.12.19-00.30.07:578][583]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.12.19-00.30.07:578][583]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.12.19-00.30.07:578][583]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.12.19-00.30.07:578][583]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.12.19-00.30.07:578][583]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.12.19-00.30.07:578][583]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.12.19-00.30.07:578][583]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.12.19-00.30.07:578][583]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.12.19-00.30.07:578][583]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.12.19-00.30.07:578][583]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.12.19-00.30.07:578][583]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.12.19-00.30.07:578][583]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.12.19-00.30.07:578][583]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.12.19-00.30.07:616][583]LogD3D12RHI: Display: D3D12 ReleaseResources: 481 items to release
+[2021.12.19-00.30.07:616][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "HitProxyTexture", 1827 x 849 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:616][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "HitProxyCPUTexture", 6302860 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2021.12.19-00.30.07:616][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 184 x 184 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:616][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 184 x 184 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:617][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:617][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 184 x 184 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:617][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 184 x 184 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:617][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:617][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:618][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:618][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:618][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:618][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 184 x 184 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:618][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BufferedRT", 1827 x 849 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2021.12.19-00.30.07:618][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBResultsCPU", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2021.12.19-00.30.07:618][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBResultsCPU", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2021.12.19-00.30.07:618][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBResultsCPU", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2021.12.19-00.30.07:619][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBResultsCPU", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2021.12.19-00.30.07:619][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBResultsCPU", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2021.12.19-00.30.07:619][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBResultsCPU", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2021.12.19-00.30.07:619][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.SubpixelInfo", 2560 x 1368 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2021.12.19-00.30.07:619][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Metadata", 2560 x 1368 x 1, Mips: 1, Format: 0x31, Flags: 0x4
+[2021.12.19-00.30.07:619][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.HighFrequencies", 2560 x 1368 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:619][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.LowFrequencies", 2560 x 1368 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:620][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Denoiser.TemporalAccumulation0", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:620][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.SpecularIndirect", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:620][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.DepthHistory", 2560 x 1368 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2021.12.19-00.30.07:620][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.HistoryConvergence", 2560 x 1368 x 1, Mips: 1, Format: 0x3D, Flags: 0x1
+[2021.12.19-00.30.07:620][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RoughSpecularIndirect", 2560 x 1368 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2021.12.19-00.30.07:620][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.DiffuseIndirect", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:620][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferA", 2560 x 1368 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2021.12.19-00.30.07:620][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneColorDeferred", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:621][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneDepthZ", 2560 x 1368 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2021.12.19-00.30.07:621][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeSceneDepth", 160 x 129 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2021.12.19-00.30.07:621][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 1280 x 1032 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:621][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 192 x 48 x 48, Mips: 1, Format: 0x2A, Flags: 0x4
+[2021.12.19-00.30.07:622][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBFurthest", 256 x 256 x 1, Mips: 8, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:622][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyGIVolumeNewHistory1", 58 x 27 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:622][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyGIVolumeNewHistory0", 58 x 27 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:622][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2021.12.19-00.30.07:622][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBFurthest", 1024 x 512 x 1, Mips: 10, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:622][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Editor.PrimitivesDepthHistory", 5120 x 2736 x 1, Mips: 1, Format: 0x29, Flags: 0x1
+[2021.12.19-00.30.07:623][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyGIVolumeNewHistory0", 15 x 9 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:623][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyGIVolumeNewHistory1", 15 x 9 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:623][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DOF.TemporalAA", 1280 x 684 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:623][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 512 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2021.12.19-00.30.07:624][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 512 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2021.12.19-00.30.07:624][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 512 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2021.12.19-00.30.07:625][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "MediaTextureResourceOutput", 2 x 2 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:625][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "MediaTextureResourceOutput", 2 x 2 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:625][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "MediaTextureResourceOutput", 2 x 2 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:625][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 16 x 16 x 16, Mips: 1, Format: 0x1E, Flags: 0x4
+[2021.12.19-00.30.07:625][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:626][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:626][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:626][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2021.12.19-00.30.07:626][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:626][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2021.12.19-00.30.07:627][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:627][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:627][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:627][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2021.12.19-00.30.07:628][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:628][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2021.12.19-00.30.07:628][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:628][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:628][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:629][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:629][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:629][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:629][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:629][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:629][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:629][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:630][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:630][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:630][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:630][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:630][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:630][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:630][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:631][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:631][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:631][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:631][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:631][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:632][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:632][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:632][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2021.12.19-00.30.07:633][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:633][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2021.12.19-00.30.07:633][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "StencilDummy", 1 x 1 x 1, Mips: 1, Format: 0x1E, Flags: 0x1
+[2021.12.19-00.30.07:633][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ZeroUShort4Dummy", 1 x 1 x 1, Mips: 1, Format: 0xC, Flags: 0x1
+[2021.12.19-00.30.07:634][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ZeroUIntDummy", 1 x 1 x 1, Mips: 1, Format: 0x2A, Flags: 0x1
+[2021.12.19-00.30.07:634][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricBlackDummy", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:634][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DefaultNormal8Bit", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:634][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "GreenDummy", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:634][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "MaxFP16Depth", 1 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:634][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairLUT0", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:634][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Hair.LUT(DualScattering)", 64 x 64 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:634][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BlackAlphaOneDummy", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:635][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkySHIrradiance", 9 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:635][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap1", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:635][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap0", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:637][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap1", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:637][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap0", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:638][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2021.12.19-00.30.07:639][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneOpacity", 4096 x 4096 x 1, Mips: 13, Format: 0x3D, Flags: 0x1
+[2021.12.19-00.30.07:640][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneRadiosity", 2048 x 2048 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2021.12.19-00.30.07:640][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneFinalLighting", 4096 x 4096 x 1, Mips: 13, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:641][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneDepth", 4096 x 4096 x 1, Mips: 13, Format: 0x23, Flags: 0x1
+[2021.12.19-00.30.07:643][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneEmissive", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:647][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneNormal", 4096 x 4096 x 1, Mips: 1, Format: 0x1B, Flags: 0x1
+[2021.12.19-00.30.07:667][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneAlbedo", 4096 x 4096 x 1, Mips: 1, Format: 0x1B, Flags: 0x1
+[2021.12.19-00.30.07:683][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "AtmosphereDeltaJ", 256 x 128 x 2, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:684][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "AtmosphereDeltaSM", 256 x 128 x 2, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:684][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "AtmosphereDeltaSR", 256 x 128 x 2, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:684][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "AtmosphereInscatter", 256 x 128 x 2, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:684][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "AtmosphereDeltaE", 64 x 16 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:684][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "AtmosphereIrradiance", 64 x 16 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:684][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "AtmosphereTransmittance", 256 x 64 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:685][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBFurthest", 1024 x 512 x 1, Mips: 10, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:685][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyGIVolumeNewHistory1", 58 x 27 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:685][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyGIVolumeNewHistory0", 58 x 27 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:685][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 32 x 32 x 32, Mips: 1, Format: 0x18, Flags: 0x1
+[2021.12.19-00.30.07:685][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2021.12.19-00.30.07:685][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 4352 x 4352 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:686][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DebugBRDFProbabilityDensityFunction", 1024 x 1024 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:686][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:687][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 4096 x 4096 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:687][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "OctahedralSolidAngleTexture", 16 x 16 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:687][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.SpecularIndirect", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:688][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.DepthHistory", 2560 x 1368 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2021.12.19-00.30.07:689][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelVisBuffer", 64 x 256 x 384, Mips: 1, Format: 0x2A, Flags: 0x4
+[2021.12.19-00.30.07:689][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelLighting", 64 x 256 x 384, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:690][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableMovableLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2021.12.19-00.30.07:691][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableStationaryLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2021.12.19-00.30.07:691][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalSDFMipTexture", 56 x 56 x 224, Mips: 1, Format: 0x3D, Flags: 0x4
+[2021.12.19-00.30.07:691][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFieldPageTableCombined", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2021.12.19-00.30.07:691][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageAtlas", 512 x 512 x 160, Mips: 1, Format: 0x3D, Flags: 0x5
+[2021.12.19-00.30.07:692][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RoughSpecularIndirect", 2560 x 1368 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2021.12.19-00.30.07:692][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.HistoryConvergence", 2560 x 1368 x 1, Mips: 1, Format: 0x3D, Flags: 0x1
+[2021.12.19-00.30.07:692][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.HistoryConvergence", 2560 x 1368 x 1, Mips: 1, Format: 0x3D, Flags: 0x1
+[2021.12.19-00.30.07:692][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RoughSpecularIndirect", 2560 x 1368 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2021.12.19-00.30.07:693][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.DepthHistory", 2560 x 1368 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2021.12.19-00.30.07:693][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.SpecularIndirect", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:694][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Denoiser.TemporalAccumulation0", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:694][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.SubpixelInfo", 2560 x 1368 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2021.12.19-00.30.07:694][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Denoiser.TemporalAccumulation0", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:695][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferA", 2560 x 1368 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2021.12.19-00.30.07:695][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.HighFrequencies", 2560 x 1368 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:696][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.LowFrequencies", 2560 x 1368 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:696][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2021.12.19-00.30.07:696][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneColorDeferred", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:697][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.DiffuseIndirect", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:697][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Metadata", 2560 x 1368 x 1, Mips: 1, Format: 0x31, Flags: 0x4
+[2021.12.19-00.30.07:697][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 192 x 48 x 48, Mips: 1, Format: 0x2A, Flags: 0x4
+[2021.12.19-00.30.07:697][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 1280 x 1032 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:698][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneDepthZ", 2560 x 1368 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2021.12.19-00.30.07:699][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2021.12.19-00.30.07:699][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2021.12.19-00.30.07:700][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeSceneDepth", 160 x 129 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2021.12.19-00.30.07:700][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.HighFrequencies", 2560 x 1368 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:700][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.LowFrequencies", 2560 x 1368 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:701][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableMovableLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2021.12.19-00.30.07:701][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableStationaryLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2021.12.19-00.30.07:701][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalSDFMipTexture", 56 x 56 x 224, Mips: 1, Format: 0x3D, Flags: 0x4
+[2021.12.19-00.30.07:701][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFieldPageTableCombined", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2021.12.19-00.30.07:701][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageAtlas", 512 x 512 x 160, Mips: 1, Format: 0x3D, Flags: 0x5
+[2021.12.19-00.30.07:702][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2021.12.19-00.30.07:702][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferA", 2560 x 1368 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2021.12.19-00.30.07:703][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneColorDeferred", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:703][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 192 x 48 x 48, Mips: 1, Format: 0x2A, Flags: 0x4
+[2021.12.19-00.30.07:703][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 1280 x 1032 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:703][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Metadata", 2560 x 1368 x 1, Mips: 1, Format: 0x31, Flags: 0x4
+[2021.12.19-00.30.07:704][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.SubpixelInfo", 2560 x 1368 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2021.12.19-00.30.07:704][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 32 x 32 x 32, Mips: 1, Format: 0x18, Flags: 0x1
+[2021.12.19-00.30.07:704][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2021.12.19-00.30.07:704][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeSceneDepth", 160 x 129 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2021.12.19-00.30.07:704][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 4352 x 4352 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:705][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DebugBRDFProbabilityDensityFunction", 1024 x 1024 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:707][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:709][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 4096 x 4096 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:719][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "OctahedralSolidAngleTexture", 16 x 16 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:719][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Editor.PrimitivesDepthHistory", 5120 x 2736 x 1, Mips: 1, Format: 0x29, Flags: 0x1
+[2021.12.19-00.30.07:720][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.DiffuseIndirect", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:722][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelVisBuffer", 64 x 256 x 384, Mips: 1, Format: 0x2A, Flags: 0x4
+[2021.12.19-00.30.07:722][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelLighting", 64 x 256 x 384, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:722][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyGIVolumeNewHistory0", 15 x 9 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:722][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyGIVolumeNewHistory1", 15 x 9 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:723][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBFurthest", 256 x 256 x 1, Mips: 8, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:723][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DOF.TemporalAA", 1280 x 684 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:724][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.CardIndirectArgsBuffer", 20 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:724][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "SetupCardTraceBlocksIndirectArgsBuffer", 12 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:724][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.SafeMainRasterizeArgsSWHW", 32 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:724][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.PostRasterizeArgsSWHW", 32 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:724][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.OccludedInstancesArgs", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:725][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.MainRasterizeArgsSWHW", 32 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:725][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.DrawIndirectArgsBuffer", 80 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:725][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShaderDrawDataIndirectBuffer", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:725][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeIndirectArgs", 60 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:725][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.ClearProbePDFsIndirectArgs", 24 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:725][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.GenerateProbeTraceTilesIndirectArgs", 36 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:725][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FilterProbesIndirectArgs", 60 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:725][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.CalculateProbeIrradianceIndirectArgs", 72 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:725][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.PrepareProbeOcclusionIndirectArgs", 84 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:726][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FixupProbeBordersIndirectArgs", 96 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:726][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.TraceProbesIndirectArgs", 48 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:726][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.PostPass.CandidateNodesAndClustersBuffer", 92798976 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:728][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.ReflectionTracingTileIndirectArgs", 12 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:728][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.CompactTracingIndirectArgs", 12 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:728][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.CompactRayTraceDispatchIndirectArgs", 12 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:728][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.DrawIndirectArgsBuffer", 40 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:728][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DOFIndirectDrawParameters", 40 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:728][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.MainPass.CandidateNodesAndClustersBuffer", 84410368 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:730][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.VisibleClustersSWHW", 25165824 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:731][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.VisibleClustersSWHW", 25165824 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:732][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 1572864 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2021.12.19-00.30.07:732][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 1572864 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2021.12.19-00.30.07:732][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 1572864 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2021.12.19-00.30.07:732][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 1572864 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2021.12.19-00.30.07:732][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 37 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2021.12.19-00.30.07:733][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 37 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2021.12.19-00.30.07:733][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleCurveTexture", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:733][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ColoredTexture", 1 x 1 x 1, Mips: 1, Format: 0x1B, Flags: 0x4
+[2021.12.19-00.30.07:733][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "CardIndexer2", 134217728 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:773][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "CardIndexer1", 4096 x 4096 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:777][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.PrevClosestDepthTexture", 2560 x 1368 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2021.12.19-00.30.07:777][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Editor.SelectionOutline", 2560 x 1368 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2021.12.19-00.30.07:779][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.DilatedVelocity", 2560 x 1368 x 1, Mips: 1, Format: 0x23, Flags: 0x4
+[2021.12.19-00.30.07:779][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.ClosestDepthTexture", 2560 x 1368 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:779][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Editor.PrimitivesDepth", 2560 x 1368 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2021.12.19-00.30.07:780][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.HistoryRejection", 1280 x 684 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2021.12.19-00.30.07:780][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.ParallaxRejectionMask", 2560 x 1368 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2021.12.19-00.30.07:780][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.Output", 2560 x 1368 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:780][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.Prediction.SceneColor", 2560 x 1368 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:780][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.Filtered.Prediction.SceneColor", 2560 x 1368 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:780][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DOF.GatherForeground", 1280 x 684 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:780][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DOF.GatherForeground", 1280 x 684 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:780][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DOF.Reduce", 1280 x 688 x 1, Mips: 2, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:781][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DOF.HalfResSetup", 1280 x 684 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:781][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "SeparateTranslucencyColor", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:781][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Denoiser.Reconstruction0", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:781][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Denoiser.PreConvolution0", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:781][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Denoiser.DenoiserOutput0", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:781][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "RayTracingOcclusion", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:781][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Editor.SelectionOutline", 2560 x 1368 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2021.12.19-00.30.07:782][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShadowMaskAtlas", 4096 x 4096 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:782][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.ReflectionRayBuffer", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:782][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RoughSpecularIndirect", 2560 x 1368 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:782][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.DiffuseIndirect", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:782][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenBentNormal", 2560 x 1368 x 1, Mips: 1, Format: 0x1B, Flags: 0x4
+[2021.12.19-00.30.07:782][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeRadiance", 1280 x 1032 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:782][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.TraceHit", 1280 x 1032 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2021.12.19-00.30.07:783][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FilteredRadianceProbeAtlasTexture", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:783][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.DilatedVelocity", 2560 x 1368 x 1, Mips: 1, Format: 0x23, Flags: 0x4
+[2021.12.19-00.30.07:783][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferE", 2560 x 1368 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:783][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.ParallaxRejectionMask", 2560 x 1368 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2021.12.19-00.30.07:783][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.ClosestDepthTexture", 2560 x 1368 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:783][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DOF.Recombine", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:783][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.Prediction.SceneColor", 2560 x 1368 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:783][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DOF.GatherFocus", 1280 x 684 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:783][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.HistoryRejection", 1280 x 684 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2021.12.19-00.30.07:783][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "MotionBlur.SceneColor", 2560 x 1368 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:783][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.ResolvedSpecularIndirect", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:783][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.ReflectionTraceRadiance", 2560 x 1368 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:783][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.CompactedTraceTexelData", 10567680 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:783][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DOF.ForegroundDrawList", 1749360 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:783][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.CompactedTraceTexelData", 28016640 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:783][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.CompactedTraceTexelData", 28016640 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:783][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.CompactedTraceTexelData", 10567680 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:787][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyGIVolume0", 58 x 27 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:787][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.MaterialRange", 29 x 14 x 1, Mips: 1, Format: 0x11, Flags: 0x4
+[2021.12.19-00.30.07:787][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Editor.PrimitivesColor", 2560 x 1368 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:787][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "SelectionOutlineColor", 2560 x 1368 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:787][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyGIVolume1", 58 x 27 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:787][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "LightingChannels", 2560 x 1368 x 1, Mips: 1, Format: 0x3E, Flags: 0x1
+[2021.12.19-00.30.07:787][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "SSRTReducedSceneColor", 1280 x 688 x 1, Mips: 5, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:787][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "SSRTReducedSceneAlpha", 1280 x 688 x 1, Mips: 5, Format: 0x3D, Flags: 0x4
+[2021.12.19-00.30.07:787][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeWorldSpeed", 160 x 129 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:787][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomY", 40 x 22 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:787][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.FilteredHistoryRejection", 1280 x 684 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2021.12.19-00.30.07:787][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.PreviousOccluderHZB", 1024 x 512 x 1, Mips: 10, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:787][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeDirectional0", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:787][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneColor", 2560 x 1368 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:787][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene(1/32)", 80 x 43 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:787][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomX", 160 x 86 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomY", 160 x 86 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomX", 80 x 43 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomX", 40 x 22 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBClosest", 1024 x 512 x 1, Mips: 10, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene(1/16)", 160 x 86 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.DilatedHistoryRejection", 1280 x 684 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "LightMaskTexture", 4096 x 4096 x 1, Mips: 1, Format: 0x3E, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Histogram", 16 x 210 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "HistogramReduce", 16 x 2 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomY", 80 x 43 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeAmbient1", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeDirectional1", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Denoiser.Injest0", 2560 x 1368 x 1, Mips: 1, Format: 0x2A, Flags: 0x5
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeAmbient0", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeDirectional1", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.ReflectionTraceHit", 2560 x 1368 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeAmbient0", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeDirectional0", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeAmbient1", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.ReflectionDownsampledDepth", 2560 x 1368 x 1, Mips: 1, Format: 0x29, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 1280 x 1032 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadianceWithBorder", 1600 x 1290 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 1280 x 1032 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.TraceRadiance", 1280 x 1032 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeHitDistance", 1280 x 1032 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeTraceMoving", 1280 x 1032 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RayInfosForTracing", 1280 x 1032 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenTileAdaptiveProbeIndices", 2560 x 1376 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.LightingProbabilityDensityFunction", 1280 x 1032 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenTileAdaptiveProbeHeader", 160 x 86 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeAmbient1", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeDirectional0", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeAmbient0", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.ReflectionTraceHit", 2560 x 1368 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.ReflectionDownsampledDepth", 2560 x 1368 x 1, Mips: 1, Format: 0x29, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadianceWithBorder", 1600 x 1290 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 1280 x 1032 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 1280 x 1032 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeTraceMoving", 1280 x 1032 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeHitDistance", 1280 x 1032 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.TraceRadiance", 1280 x 1032 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RayInfosForTracing", 1280 x 1032 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.LightingProbabilityDensityFunction", 1280 x 1032 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenTileAdaptiveProbeIndices", 2560 x 1376 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenTileAdaptiveProbeHeader", 160 x 86 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeWorldSpeed", 160 x 129 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene(1/16)", 160 x 86 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene(1/4)", 640 x 342 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "LightingChannels", 2560 x 1368 x 1, Mips: 1, Format: 0x3E, Flags: 0x1
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyGIVolume1", 15 x 9 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyGIVolume0", 15 x 9 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "LightMaskTexture", 4096 x 4096 x 1, Mips: 1, Format: 0x3E, Flags: 0x4
+[2021.12.19-00.30.07:788][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBClosest", 256 x 256 x 1, Mips: 8, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.MaterialRange", 8 x 5 x 1, Mips: 1, Format: 0x11, Flags: 0x4
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferD", 2560 x 1368 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneVelocity", 2560 x 1368 x 1, Mips: 1, Format: 0xB, Flags: 0x5
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferC", 2560 x 1368 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferB", 2560 x 1368 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.MaterialDepth", 2560 x 1368 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.Velocity", 2560 x 1368 x 1, Mips: 1, Format: 0xB, Flags: 0x5
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.Mask", 2560 x 1368 x 1, Mips: 1, Format: 0x3E, Flags: 0x5
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.PreviousOccluderHZB", 256 x 256 x 1, Mips: 8, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.VisBuffer64", 2560 x 1368 x 1, Mips: 1, Format: 0x11, Flags: 0x4
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.Output", 2560 x 1368 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.DilatedHistoryRejection", 1280 x 684 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.ParallaxFactor", 2560 x 1368 x 1, Mips: 1, Format: 0x3E, Flags: 0x4
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.PrevUseCountTexture", 2560 x 1368 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DOF.ScatterBokehLUT", 32 x 32 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DOF.Downsample", 640 x 342 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DOF.FlattenBgdCoc", 160 x 86 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DOF.FlattenFgdCoc", 160 x 86 x 1, Mips: 1, Format: 0x22, Flags: 0x4
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeDirectional1", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeAmbient1", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomX", 640 x 342 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene(1/8)", 320 x 171 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomX", 160 x 86 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene(1/32)", 80 x 43 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene(1/64)", 40 x 22 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomY", 40 x 22 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomY", 160 x 86 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomY", 320 x 171 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomY", 1280 x 684 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "MotionBlur.DilatedVelocityTile", 30 x 17 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "MotionBlur.VelocityFlat", 2560 x 1368 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.FilteredHistoryRejection", 1280 x 684 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2021.12.19-00.30.07:789][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.PrevUseCountTexture", 2560 x 1368 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DOF.DilateBgdCoc", 160 x 86 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DOF.FullResSetup", 2560 x 1368 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeDirectional0", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomX", 320 x 171 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomX", 80 x 43 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomY", 80 x 43 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomY", 640 x 342 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "MotionBlur.VelocityTile", 30 x 17 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.Filtered.SceneColor", 2560 x 1368 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DOF.DilateFgdCoc", 160 x 86 x 1, Mips: 1, Format: 0x22, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeAmbient0", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene(1/64)", 40 x 22 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "HistogramReduce", 16 x 2 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.Filtered.SceneColor", 2560 x 1368 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Denoiser.Injest0", 2560 x 1368 x 1, Mips: 1, Format: 0x2A, Flags: 0x5
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Histogram", 16 x 20 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeDirectional1", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomX", 1280 x 684 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "HalfResolutionSceneColor", 1280 x 684 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Tonemap", 2560 x 1368 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "SSRTReducedSceneColor", 1280 x 688 x 1, Mips: 5, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "SSRTReducedSceneAlpha", 1280 x 688 x 1, Mips: 5, Format: 0x3D, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.InstanceIdOffsetBuffer", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.InstanceIdOffsetBuffer", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.InstanceIdOffsetBuffer", 8 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.VisibleMaterials", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "QuadDataBuffer", 4096 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "CardTraceBlockAllocator", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "CardTraceBlockData", 4194304 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "QuadAllocator", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.ReflectionResolveTileData", 218880 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeRadianceSHDirectional", 990720 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeMoving", 20640 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeRadianceSHAmbient", 82560 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "QuadAllocator", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.ProbeTraceTileData", 8388608 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.CompactedTraceTexelAllocator", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.CompactedTraceTexelAllocator", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.ReflectionTracingTileData", 218880 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeSH_PDF", 655360 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.NumNewProbes", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.ProbeTraceTileAllocator", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.ProbeTraceData", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.daptiveScreenProbeData", 12420 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.BRDFProbabilityDensityFunctionSH", 371520 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.ProbeTraceAllocator", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.NumAdaptiveScreenProbes", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.CompactedVisBufferAllocator", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.CompactedVisBuffer", 6291456 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "QuadDataBuffer", 4096 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.InstanceIdOffsetBuffer", 8 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "CulledLightLinks", 14417920 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "NextCulledLightData", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "NextCulledLightLink", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "StartOffsetGrid", 225280 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.MainAndPostPassPersistentStates", 40 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.ReflectionTracingTileData", 218880 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.ReflectionResolveTileData", 218880 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Hair.DummyNodeBuffer", 20 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldStreamingRequests", 32764 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldAssetWantedNumMips", 8 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.VisibleInstanceFlags", 8 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShaderDrawDataBuffer", 32 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:790][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.CompactedTraceTexelAllocator", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.NumNewProbes", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.ProbeTraceData", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.BRDFProbabilityDensityFunctionSH", 371520 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.daptiveScreenProbeData", 1020 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.CompactedVisBufferAllocator", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "QuadDataBuffer", 4096 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "CardTraceBlockData", 4194304 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "CardTraceBlockAllocator", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeMoving", 20640 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeRadianceSHDirectional", 990720 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.CompactedTraceTexelAllocator", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.ProbeTraceTileData", 8388608 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.ProbeTraceAllocator", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.NumAdaptiveScreenProbes", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "QuadAllocator", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "QuadDataBuffer", 4096 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeRadianceSHAmbient", 82560 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeSH_PDF", 655360 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.CompactedVisBuffer", 6291456 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "QuadAllocator", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.ProbeTraceTileAllocator", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.VisibleMaterials", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.CompactedTraceTexelAllocator", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.CompactedTraceTexelAllocator", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Hair.DummyBuffer", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:791][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.InstanceIdOffsetBuffer", 8 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2021.12.19-00.30.07:795][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x3D, Flags: 0x4
+[2021.12.19-00.30.07:795][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2021.12.19-00.30.07:796][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2021.12.19-00.30.07:796][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2021.12.19-00.30.07:796][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2021.12.19-00.30.07:796][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2021.12.19-00.30.07:796][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2021.12.19-00.30.07:796][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.12.19-00.30.07:797][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 16 x 16 x 16, Mips: 1, Format: 0x1E, Flags: 0x4
+[2021.12.19-00.30.07:797][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "DepthDummy", 1 x 1 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2021.12.19-00.30.07:797][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "WhiteDummy", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:797][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "BlackDummy", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.12.19-00.30.07:797][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "MidGreyDummy", 1 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.12.19-00.30.07:798][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneDepthZ", 2560 x 1368 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2021.12.19-00.30.07:798][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.VisBuffer64", 2560 x 1368 x 1, Mips: 1, Format: 0x11, Flags: 0x4
+[2021.12.19-00.30.07:798][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.MaterialRange", 4 x 4 x 1, Mips: 1, Format: 0x11, Flags: 0x4
+[2021.12.19-00.30.07:801][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.VisBuffer64", 2560 x 1368 x 1, Mips: 1, Format: 0x11, Flags: 0x4
+[2021.12.19-00.30.07:802][583]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.MaterialRange", 1 x 1 x 1, Mips: 1, Format: 0x11, Flags: 0x4
+[2021.12.19-00.30.07:915][583]LogD3D12RHI: ~FD3D12DynamicRHI
+[2021.12.19-00.30.07:927][583]LogExit: Exiting.
+[2021.12.19-00.30.07:940][583]Log file closed, 12/18/21 19:30:07
