@@ -38,7 +38,7 @@ requestBody_accel = {
 }
 
 # gyro
-lastFewPointsX = BEGINNER_ARRAY
+lastFewPointsX = [*BEGINNER_ARRAY, *BEGINNER_ARRAY, *BEGINNER_ARRAY]
 lastFewPointsY = BEGINNER_ARRAY
 lastFewPointsZ = BEGINNER_ARRAY
 
